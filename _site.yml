@@ -20,7 +20,3 @@ navbar:
     - icon: fa-question fa-lg
       href: https://example.com
 
-output:
-  html_document:
-    theme: darkly
-    highlight: textmate
