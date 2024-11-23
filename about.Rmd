@@ -5,4 +5,5 @@ title: "About me"
 Aquí colocaré algo de info sobre mí.
 
 ### Image about me
-![Me](C:/Users/Margarita/Pictures/Rmarkdown/website_botones/IMG_me.jpg){width=50%}
+![Me](C:/Users/Margarita/Pictures/Rmarkdown/website_botones/IMG_me.jpg){width=10%}
+
