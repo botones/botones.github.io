@@ -2,11 +2,24 @@ name: "my-website"
 output_dir: "."
 navbar:
   title: "My Website"
+  type: inverse
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "About"
+      icon: fa-info
       href: about.html
+    - text: "More"
+      icon: fa-gear
+      menu:
+        - text: "Heading 1"
+        - text: "Page A"
+          href: page-a.html
+  right:
+    - icon: fa-question fa-lg
+      href: https://example.com
+
 output:
   html_document:
     theme: darkly
