@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
+title: "About me"
 ---
 
-More about this website.
+Aquí colocaré algo de info sobre mí.
