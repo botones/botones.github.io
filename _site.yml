@@ -7,7 +7,7 @@ navbar:
   left:
     - text: "🏠 Home"
       href: index.html
-    - text: "📄 About"
+    - text: "📄 Projects"
       href: about.html
     
   right:
