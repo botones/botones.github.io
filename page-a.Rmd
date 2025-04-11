@@ -7,12 +7,19 @@ title: "Communities"
 
 Es común sentirse abrumado por la cantidad de información disponible en la web, por ello es importante trabajar en comunidad, aquí te recomiendo algunas para continuar con tu aprendizaje 💪.
 
+
 👨‍💻👩‍💻 
 
 ## MakerLab
 https://www.makerlabperu.org/
 
 https://www.instagram.com/makerlab_peru/
+
+
+👨‍💻👩‍💻 
+
+## Data Science Research Perú (DSRP)
+https://www.youtube.com/c/DataScienceResearchPer%C3%BA
 
 
 👨‍💻👩‍💻 
@@ -45,6 +52,4 @@ https://www.instagram.com/awsgirlsperu/
 
 ## IEEE Women in Engineering
 https://www.instagram.com/ieeewomeninengineering/
-
-
 

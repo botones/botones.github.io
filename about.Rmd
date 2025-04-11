@@ -1,11 +1,10 @@
 ---
-title: "Knowledge"
+title: "Projects"
 ---
 
-info
 
-### Try image with link
+1. [Biometric security system](https://github.com/botones/Biometric_System/tree/main?tab=readme-ov-file)
 
-[![Me](C:/Users/Margarita/Pictures/Rmarkdown/website_botones/IMG_me.jpg){width=10%}]: # 
-[Me](https://photos.app.goo.gl/sPmTueLVEbcoBscn7)
+![Workflow blink face](imgs/VID_20231218_152620.gif)
 
+![Workflow electric lock](imgs/VID_20231218_153317.gif)
