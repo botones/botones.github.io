@@ -1,8 +1,8 @@
 ---
-title: "About me"
+title: "Knowledge"
 ---
 
-Aquí colocaré algo de info sobre mí.
+info
 
 ### Try image with link
 

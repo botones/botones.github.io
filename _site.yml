@@ -1,22 +1,19 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
-  type: inverse
+  title: "🚀 My Website"
+  type: default   # Cambia de "inverse" a "default" para colores más claros
+  theme: flatly   # Aplica un tema de color, puedes probar con: flatly, cerulean, journal, etc.
   left:
-    - text: "Home"
-      icon: fa-home
+    - text: "🏠 Home"
       href: index.html
-    - text: "About"
-      icon: fa-info
+    - text: "📄 About"
       href: about.html
-    - text: "More"
-      icon: fa-gear
-      menu:
-        - text: "Heading 1"
-        - text: "Page A"
-          href: page-a.html
+    
   right:
-    - icon: fa-question fa-lg
-      href: https://example.com
+    - text: "📌 Tech"
+      icon: fa-info-circle
+      menu:
+        - text: "📁 Communities"
+          href: page-a.html
 
