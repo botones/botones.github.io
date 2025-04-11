@@ -2,7 +2,7 @@
 title: "Margarita Segovia - About Me"
 ---
 
-### Biography
+### 👩‍🎓 Biography
 I am a 2024 Engineering Physics graduate from the National University of Engineering (UNI), Faculty of Sciences, with a strong interest in science, technology, and continuous learning.
 
 Early in my career, I earned an IG2 certification from SGS, which allowed me to work in the natural gas sector with Bosch Peru. There, I was inspired by the automation systems used to streamline technicians' workflows, which sparked my interest in real-time workflow automation.
