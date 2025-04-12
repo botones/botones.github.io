@@ -1,20 +1,20 @@
-# ---
+---
 title: "Margarita Segovia - About Me"
 ---
 
 
 ### 👩‍🎓 Biography
+
 I am a 2024 Engineering Physics graduate from the National University of Engineering (UNI), Faculty of Sciences, with a strong interest in science, technology, and continuous learning.
 
 Early in my career, I earned an IG2 certification from SGS, which allowed me to work in the natural gas sector with Bosch Peru. There, I was inspired by the automation systems used to streamline technicians' workflows, which sparked my interest in real-time workflow automation.
 
-In 2021, I was awarded the Permanence Scholarship by PRONABEC, which supported the completion of my studies and allowed me to explore data science and machine learning, focusing on Python, statistical modeling, and practical applications of algorithms.
+In 2021, I was awarded the Permanence Scholarship by PRONABEC, which supported the completion of my studies and allowed me to explore data science and machine learning, focusing on Python, statistical modeling, and practical applications of algorithms.  
+
+<img src="imgs/aws.jpeg" alt="AWS" style="width:50%; height:auto;">
 
 
-![Workflow blink face](imgs/VID_20231218_152620.gif)
-
-
-
+![MakerLab](imgs/mkl.jpg)
 
 
 

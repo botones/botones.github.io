@@ -3,12 +3,13 @@ title: "Projects"
 ---
 
 
-1. [Biometric security system](https://github.com/botones/Biometric_System/tree/main?tab=readme-ov-file)
 
-![Workflow blink face](imgs/VID_20231218_152620.gif)
 
-![Workflow electric lock](imgs/VID_20231218_153317.gif)
 
+
+[Biometric security system](https://github.com/botones/Biometric_System/tree/main?tab=readme-ov-file)
+
+<img src="imgs/VID_20231218_152620.gif" alt="Workflow blink face" style="width:50%; height:auto;">    <img src="imgs/VID_20231218_153317.gif" alt="Workflow electric flow" style="width:15%; height:auto;">
 
 
 
