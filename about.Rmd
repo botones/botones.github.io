@@ -1,11 +1,8 @@
 ---
-title: "Projects"
+title: "Otros"
 ---
 
-
-
-
-
+---
 
 [Biometric security system](https://github.com/botones/Biometric_System/tree/main?tab=readme-ov-file)
 
