@@ -1,5 +1,10 @@
 ---
 title: "Communities"
+output:
+  html_document:
+    includes:
+      in_header: "oda.html"
+
 ---
 
 En un mundo digital donde la información abunda, es completamente normal sentirse abrumado o sin saber por dónde empezar. La buena noticia es que no estás solo en este camino. Aprender en comunidad no solo hace el proceso más llevadero, sino también más enriquecedor: puedes compartir dudas, descubrir nuevos recursos y mantenerte motivado rodeándote de personas con intereses similares.
